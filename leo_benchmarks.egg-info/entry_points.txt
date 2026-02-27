@@ -1,2 +1,0 @@
-[console_scripts]
-leo = leo.cli.main:cli
